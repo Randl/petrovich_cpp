@@ -10,7 +10,7 @@
 Для работы требуюется библиотека yaml-cpp(http://code.google.com/p/yaml-cpp/) версии 0.5.1 или выше.
 
 #Использование
-'''c++
+'''cpp
 #include "petrovich.h"
 #include <iostream>
 
